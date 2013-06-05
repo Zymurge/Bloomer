@@ -1,0 +1,2 @@
+Bloomer is an old experiment that attemtps to create a bloom filter with
+deletion capabilities. It uses reference counting in place of mapped bits.
